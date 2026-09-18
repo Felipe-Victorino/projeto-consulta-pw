@@ -51,7 +51,7 @@ const ExampleButton = () => {
 
    useEffect(() => {
       //...
-    }, []); //Uma única vez, essa funão é rodadda
+    }, []); //Uma única vez, essa função é rodadda
 
     useEffect(() => {
       //...
